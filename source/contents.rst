@@ -9,6 +9,7 @@ Contents
     :includehidden:
 
     index
+    format
     gettingstarted
     operations
     modules/index

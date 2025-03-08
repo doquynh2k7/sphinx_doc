@@ -5,7 +5,7 @@ Glossary
 ========
 
 .. glossary::
-    
+
     AXI
         Advanced eXtensible Interface
 
@@ -30,6 +30,9 @@ Glossary
     NIC
         Network Interface Controller
 
+    RNIC
+        RDMA enabled NIC
+
     PCI
         Peripheral Component Interconnect
 
@@ -41,6 +44,12 @@ Glossary
 
     PTP
         Precision Time Protocol (IEEE 1588)
+
+    RDMA
+        Remote Direct Memory Access
+
+    ROCE
+        RDMA over Converged Ethernet
 
     RSS
         Receive Side Scaling
